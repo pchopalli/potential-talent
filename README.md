@@ -7,4 +7,4 @@ help us spot potential candidates that could fit the roles we are in search for.
 Employed removal of stopwords and removal of special characters. Lemmitization was applied as part of pre-processing the data. 
 Applied the Vectorization and Tf-IDf to get he weights for the words. Cosine Similarity applied to the cleaned dataset and a smiliarity score was developed for job descriptions
 
-[sample](images/1.png)
+![potential-talent](images/1.png)
